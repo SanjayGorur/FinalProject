@@ -1,0 +1,14 @@
+Viswanathan Anand 2774 GM 4.0 9th 
+Levon Aronian 2794 GM 4.5 8th
+Fabiano Caruana 2784 GM 9.0 1st  
+Alexander Grischuk 2767 GM 6.5 6th  
+Sergey Karjakin 2763 GM 8.0 3rd  
+Vladimir Kramnik 2800 GM 6.5 5th  
+Ding Liren 2769 GM 7.5 4th  
+Shakhriyar Mamedyarov 2809 GM 8.0 2nd
+Hikaru Nakamura 2736 GM 3.0 10th   
+Wesley So 2799 GM 6.0 7th
+
+/**Real program randomizes places of TournamentPlayer information;
+/  Programmed in Main class.
+**/
